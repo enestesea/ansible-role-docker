@@ -21,4 +21,3 @@ apt_docker_packages:
 apt_docker_packages_state: "latest"
 
 docker_users: []
----
